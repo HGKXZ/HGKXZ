@@ -1,6 +1,6 @@
 # hey, i'm Worachart 🙌
 Computer Engineering Student @ CEDT, Chulalongkorn University  
-AI/ML · Full-stack · Data 
+AI/ML · Full-stack · Data   
 🇹🇭 bangkok, thailand  
 
 i build scalable web apps and intelligent systems.  
